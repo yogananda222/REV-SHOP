@@ -1,4 +1,4 @@
-package com.revshop.productservice.entity;
+package com.revshop.clientapp.dto;
 
 public enum Category {
 	

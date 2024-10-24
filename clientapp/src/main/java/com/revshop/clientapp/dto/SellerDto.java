@@ -1,4 +1,4 @@
-package com.revshop.authenticationservice.dto;
+package com.revshop.clientapp.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
